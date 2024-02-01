@@ -8,9 +8,9 @@
 
 </div>
 
-This repository contains the code for our paper:
+This repo contains R code underpinning the analyses for our paper:
 
-> Bolin JA, Evans KJ, Schoeman DS, Moore II TS, Spillman CM, Hartog JR, Cummins, SF and Scales KL. 2024. A warming western boundary current increases the prevalence of commercially disruptive parasites in broadbill swordfish. *Fisheries Oceanography*. In press.
+> Bolin JA, Evans KJ, Schoeman DS, Moore II TS, Spillman CM, Hartog JR, Cummins, SF and Scales KL. 2024. A warming western boundary current increases the prevalence of commercially disruptive parasites in broadbill swordfish. *Fisheries Oceanography*. Accepted.
 
 **Relevant manuscripts:**
 
@@ -20,8 +20,6 @@ This repository contains the code for our paper:
 ------------------------------------------------------------------------
 
 ## Contents
-
-This repo is organised as follows:
 
     kudoa-in-swordfish
     ├── figures             <--- .png files of figures in main text   
@@ -37,11 +35,10 @@ This repo is organised as follows:
 -   Machine specifications used for the analysis are found in `\supplement\Appendix_S1.pdf`.
 -   R package versions are documented in a project-local library within the lockfile: `renv.lock`.
 
-------------------------------------------------------------------------
 
 ## Questions or feedback?
 
-Please submit an issue, or email your questions to J.Bolin (jessica.anne.bolin(at)gmail.com).
+Please submit an issue, or email your questions to J.Bolin: jessica(dot)anne(dot)bolin(at)gmail(dot)com
 
 ---
 
