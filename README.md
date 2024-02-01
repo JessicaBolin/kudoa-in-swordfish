@@ -38,7 +38,7 @@ This repo contains R code underpinning the analyses for our paper:
 
 ## Questions or feedback?
 
-Please submit an issue, or email your questions to J.Bolin (jessica.anne.bolin(at)gmail.com).
+Please submit an issue, or email your questions to J.Bolin: jessica(dot)anne(dot)bolin(at)gmail(dot)com
 
 ---
 
