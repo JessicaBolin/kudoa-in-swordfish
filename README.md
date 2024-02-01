@@ -2,9 +2,9 @@
 
 <div align="center"> 
 
-![R](https://img.shields.io/badge/R-4.2.2-blue?style=flat")
+![R](https://img.shields.io/badge/R-v4.2.2-blue?style=flat")
 ![Latest Commit](https://img.shields.io/badge/Latest_Commit-Feb_2024-green?style=flat")
-![Repo Size](https://img.shields.io/badge/Repo_Size-11.2_MB-yellow?style=flat")
+![Repo Size](https://img.shields.io/badge/Repo_Size-79.6_MB-yellow?style=flat")
 
 </div>
 
