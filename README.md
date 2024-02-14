@@ -10,7 +10,7 @@
 
 This repo contains R code underpinning the analyses for our paper:
 
-> Bolin JA, Evans KJ, Schoeman DS, Moore II TS, Spillman CM, Hartog JR, Cummins, SF and Scales KL. 2024. A warming western boundary current increases the prevalence of commercially disruptive parasites in broadbill swordfish. *Fisheries Oceanography*, e12669 [https://doi.org/10.1111/fog.12669](https://doi.org/10.1111/fog.12669)
+> Bolin JA, Evans KJ, Schoeman DS, Moore II TS, Spillman CM, Hartog JR, Cummins, SF and Scales KL. 2024. [A warming western boundary current increases the prevalence of commercially disruptive parasites in broadbill swordfish](https://doi.org/10.1111/fog.12669). *Fisheries Oceanography*, e12669.
 
 **Relevant manuscripts:**
 
